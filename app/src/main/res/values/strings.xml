@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">catView</string>
+    <string name="lorem_text">"At vero eos et accusamus et iusto odio dignissimos ducimus qui
+        blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati
+        cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.
+        Et harum quidem rerum facilis est et expedita distinctio.
+        Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est,
+        omnis dolor repellendus.
+        Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
+        Itaque earum rerum hic tenetur a sapiente delectus,
+        ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."</string>
+    <string name="str1">
+        <ul>
+            <li>Brand:Redmi</li>\n
+            <li>Please note that Daraz voucher will not be applicable on this item</li>\n
+            <li>Technology:GSM/HSPA/LTE</li>\n
+            <li>Launch Announced:2020,june 30</li>\n
+            <li>Released 2020,August 12</li>\n
+            <li>Body,Dimensions:164.9*77*9</li>\n
+            <li>Weight:198g</li>\n
+            <li>Brand:Redmi</li>\n
+            <li>Brand:Redmi</li>\n
+            <li>Brand:Redmi</li>
+        </ul>
+    </string>
+</resources>
